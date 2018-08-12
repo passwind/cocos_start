@@ -1,0 +1,55 @@
+2018-08-12T06:50:59.801Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-12T06:50:59.805Z - normal: checking language setting...
+2018-08-12T06:50:59.805Z - normal: Language: zh
+2018-08-12T06:51:00.780Z - success: protocol editor-framework registered
+2018-08-12T06:51:00.781Z - success: protocol app registered
+2018-08-12T06:51:00.781Z - success: protocol theme registered
+2018-08-12T06:51:00.781Z - success: protocol packages registered
+2018-08-12T06:51:00.781Z - success: protocol unpack registerred
+2018-08-12T06:51:00.782Z - success: protocol disable-commonjs registerred
+2018-08-12T06:51:00.899Z - normal: connected!
+2018-08-12T06:51:00.902Z - normal: Check project /Users/zhuyu/workspace/webapp/passwind/start_project
+2018-08-12T06:51:00.905Z - normal: Initializing Cocos2d
+2018-08-12T06:51:01.171Z - normal: Initializing Asset Database
+2018-08-12T06:51:01.218Z - success: protocol uuid registerred
+2018-08-12T06:51:01.218Z - success: protocol db registerred
+2018-08-12T06:51:01.218Z - success: protocol thumbnail registerred
+2018-08-12T06:51:01.219Z - normal: Loading editor/builtin packages
+2018-08-12T06:51:01.247Z - success: anysdk loaded
+2018-08-12T06:51:01.404Z - success: assets loaded
+2018-08-12T06:51:01.408Z - success: builder loaded
+2018-08-12T06:51:01.411Z - success: cocos-analytics loaded
+2018-08-12T06:51:01.417Z - success: console loaded
+2018-08-12T06:51:01.458Z - success: fb-instant-games loaded
+2018-08-12T06:51:01.463Z - success: hierarchy loaded
+2018-08-12T06:51:01.469Z - success: inspector loaded
+2018-08-12T06:51:01.471Z - success: keystore loaded
+2018-08-12T06:51:01.476Z - success: node-library loaded
+2018-08-12T06:51:01.478Z - success: package-asset loaded
+2018-08-12T06:51:01.481Z - success: preferences loaded
+2018-08-12T06:51:01.485Z - success: project-exporter loaded
+2018-08-12T06:51:01.506Z - success: project-importer loaded
+2018-08-12T06:51:01.511Z - success: project-settings loaded
+2018-08-12T06:51:01.516Z - success: ui-kit loaded
+2018-08-12T06:51:01.523Z - success: ui-grid loaded
+2018-08-12T06:51:01.529Z - success: scene loaded
+2018-08-12T06:51:01.531Z - success: sprite-editor loaded
+2018-08-12T06:51:01.536Z - success: store loaded
+2018-08-12T06:51:01.544Z - success: timeline loaded
+2018-08-12T06:51:01.545Z - normal: Loading builtin packages
+2018-08-12T06:51:01.553Z - success: asset-db-debugger loaded
+2018-08-12T06:51:01.554Z - success: color-picker loaded
+2018-08-12T06:51:01.559Z - success: package-manager loaded
+2018-08-12T06:51:01.560Z - success: qqplay-adapter loaded
+2018-08-12T06:51:01.568Z - success: sdkbox loaded
+2018-08-12T06:51:01.574Z - success: tester loaded
+2018-08-12T06:51:01.579Z - success: ui-kit-preview-extra loaded
+2018-08-12T06:51:01.584Z - success: ui-kit-preview loaded
+2018-08-12T06:51:01.589Z - success: ui-tree loaded
+2018-08-12T06:51:01.591Z - success: weapp-adapter loaded
+2018-08-12T06:51:02.905Z - normal: Initializing project /Users/zhuyu/workspace/webapp/passwind/start_project
+2018-08-12T06:51:02.908Z - normal: Loading packages
+2018-08-12T06:51:02.915Z - normal: Watching packages
+2018-08-12T06:51:03.075Z - normal: Run Application
+2018-08-12T06:51:05.187Z - success: preview server running at http://localhost:7456
+2018-08-12T06:51:11.177Z - normal: 1.9.2
